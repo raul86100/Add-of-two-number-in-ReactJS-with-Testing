@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.bg{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+}
+.ho{
+  background-color: whitesmoke;
+  border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 10rem;
+    margin-bottom: 1rem;
+    margin-right: 30rem;
+    margin-left: 30rem;
+    opacity: 0.8;
+    box-shadow: 0 4px 11px 0 rgba(146, 96, 0, 0.35);
+    position:relative;
+}
